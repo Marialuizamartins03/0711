@@ -3,7 +3,7 @@
 @import url(style/textoum.css);
 @import url(style/textodois.css);
 :root{
-    --imagem-de-fundo:url(ia-generativa.jpg.optimal.jpg);
+    --imagem-de-fundo:url(imagem1.png);
 }
 
 body{
