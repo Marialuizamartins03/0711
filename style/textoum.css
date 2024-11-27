@@ -1,0 +1,12 @@
+.TEXTO {
+    font-size: 1.2em;
+    max-width: 800px;
+    margin-left: 10%;  
+    margin-right: auto; 
+    margin-bottom: 40px; 
+    line-height: 1.6;
+  }
+
+  .footer a{
+    text-decoration: underline; 
+   }
