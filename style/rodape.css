@@ -1,0 +1,15 @@
+.rodapé {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px 0;
+    text-align: center;
+    position: sticky;
+    padding: 0 20px;
+    bottom: 0;
+    position: fixed;
+  }
+  
+  .rodapé {
+   color: #00aaff;
+   text-decoration: none;
+   margin: 0 500px;
+  }
