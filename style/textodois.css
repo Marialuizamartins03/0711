@@ -1,0 +1,31 @@
+.texto_sinopse {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end; 
+    gap: 20px;
+    max-width: 800px;
+    margin: 0% auto;
+    padding-right: 0px;
+    margin: 0 500px;
+  }
+  
+  .texto_sinopse {
+    flex: 1;
+    min-width: 250px;
+    max-width: 550px;
+  }
+  
+  .texto_sinopse h2 {
+    font-size: 1.4em;
+  }
+  
+  
+  .texto_sinopse {
+    text-align: right; 
+  }
+  
+  
+  .texto_sinopse{
+    text-align: center
+  }
+  
